@@ -14,7 +14,7 @@ export default function Home() {
         </div>
 
         <h1 className="max-w-4xl text-5xl font-bold leading-tight md:text-7xl">
-          Modern Loan
+          Loan
           <span className="text-blue-400"> Management System</span>
         </h1>
 
